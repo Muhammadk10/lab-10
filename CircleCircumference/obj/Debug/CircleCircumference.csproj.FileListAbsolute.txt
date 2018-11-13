@@ -1,0 +1,7 @@
+C:\Users\muhammad khan\Documents\Usmans coding stuff\Lab#10\CircleCircumference\CircleCircumference\bin\Debug\CircleCircumference.exe.config
+C:\Users\muhammad khan\Documents\Usmans coding stuff\Lab#10\CircleCircumference\CircleCircumference\bin\Debug\CircleCircumference.exe
+C:\Users\muhammad khan\Documents\Usmans coding stuff\Lab#10\CircleCircumference\CircleCircumference\bin\Debug\CircleCircumference.pdb
+C:\Users\muhammad khan\Documents\Usmans coding stuff\Lab#10\CircleCircumference\CircleCircumference\obj\Debug\CircleCircumference.csprojAssemblyReference.cache
+C:\Users\muhammad khan\Documents\Usmans coding stuff\Lab#10\CircleCircumference\CircleCircumference\obj\Debug\CircleCircumference.csproj.CoreCompileInputs.cache
+C:\Users\muhammad khan\Documents\Usmans coding stuff\Lab#10\CircleCircumference\CircleCircumference\obj\Debug\CircleCircumference.exe
+C:\Users\muhammad khan\Documents\Usmans coding stuff\Lab#10\CircleCircumference\CircleCircumference\obj\Debug\CircleCircumference.pdb
